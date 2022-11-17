@@ -5,7 +5,7 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://brave-smoke-04016ed00.2.azurestaticapps.net/about.html
+**Project Link** -
 **project demo video link** - 
 
 ## Azure technologies used for Project
@@ -27,30 +27,29 @@ This is a web based application developed for health related based website in in
 
 
 
-   ![Uploading Screenshot 2022-11-17 171710.png…]()
+   <img width="960" alt="Screenshot 2022-11-17 175951" src="https://user-images.githubusercontent.com/117451627/202446870-0c379182-3d17-4d0e-8a4e-790558477e83.png">
 
 
 ### About Us -
 
 
-<img width="960" alt="Screenshot 2022-11-17 172332" src="https://user-images.githubusercontent.com/117451627/202439554-3edf71a4-0be7-46c9-99df-7b9957609b18.png">
+<img width="960" alt="Screenshot 2022-11-17 180113" src="https://user-images.githubusercontent.com/117451627/202447120-47c96d80-794e-4eca-9712-58f4e1d50f4b.png">
 
 ### Services -
 
-<img width="960" alt="Screenshot 2022-11-17 172625" src="https://user-images.githubusercontent.com/117451627/202440180-bd22df79-163c-47e1-ae79-f09a4e73b622.png">
+
+<img width="960" alt="Screenshot 2022-11-17 180214" src="https://user-images.githubusercontent.com/117451627/202447285-7372c493-a741-40cf-a09b-b7e5c8a3dd6f.png">
+
+### Contact us -
 
 
-### Contact![Uploading Screenshot 2022-11-17 172625.png…]()
- us -
-
-
-<img width="960" alt="Screenshot 2022-11-17 172041" src="https://user-images.githubusercontent.com/117451627/202439260-0eb8f12b-dd3b-4304-ae6f-f00544363b0d.png">
+<img width="960" alt="Screenshot 2022-11-17 180405" src="https://user-images.githubusercontent.com/117451627/202447720-f922d6b6-0734-4890-9281-d2e8cb063c53.png">
 
 ### health bot
 
 
 
-<img width="960" alt="Screenshot 2022-11-17 172504" src="https://user-images.githubusercontent.com/117451627/202439881-1f48e589-9321-496d-8f85-1b94788f3373.png">
+<img width="960" alt="Screenshot 2022-11-17 180526" src="https://user-images.githubusercontent.com/117451627/202448032-07365027-533b-4ae9-bf4d-2c85f892fc1c.png">
 
 ## Tech Stack 💻
 
