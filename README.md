@@ -22,38 +22,28 @@ Project Description : The easiest way to explore places by this GO TRIP website 
 
 ## Screenshots
 
+### Home -
 
-
-
-
-   <img width="960" alt="Screenshot 2022-11-17 175951" src="https://user-images.githubusercontent.com/117451627/202446870-0c379182-3d17-4d0e-8a4e-790558477e83.png">
-
+![Screenshot 2023-01-25 144918](https://user-images.githubusercontent.com/117451627/214526022-9701ee6e-ad7a-4710-8b08-fccb34ae8561.png)
 
 ### About Us -
 
+![Screenshot 2023-01-25 145017](https://user-images.githubusercontent.com/117451627/214526145-13f4ef5a-a119-4837-80ec-795df600ae23.png)
 
-<img width="960" alt="Screenshot 2022-11-17 180113" src="https://user-images.githubusercontent.com/117451627/202447120-47c96d80-794e-4eca-9712-58f4e1d50f4b.png">
+![Screenshot 2023-01-25 145052](https://user-images.githubusercontent.com/117451627/214526239-327c11f8-f446-4942-a82b-dde0eb914b06.png)
 
-### Services -
+### Explore  -
 
-
-<img width="960" alt="Screenshot 2022-11-17 180214" src="https://user-images.githubusercontent.com/117451627/202447285-7372c493-a741-40cf-a09b-b7e5c8a3dd6f.png">
+![Screenshot 2023-01-25 145152](https://user-images.githubusercontent.com/117451627/214526521-266cb11b-0db3-4496-959e-aff32df2c530.png)
 
 ### Contact us -
 
-
-<img width="960" alt="Screenshot 2022-11-17 180405" src="https://user-images.githubusercontent.com/117451627/202447720-f922d6b6-0734-4890-9281-d2e8cb063c53.png">
+![Screenshot 2023-01-25 145211](https://user-images.githubusercontent.com/117451627/214526603-98fe80b0-b8af-4c91-88c1-1d7219a94e26.png)
 
 ### health bot
 
+![Screenshot 2023-01-25 145124](https://user-images.githubusercontent.com/117451627/214526812-0ad8bd96-1d8b-437e-94d9-4589d79573ca.png)
 
+### Azure Services Used
 
-<img width="960" alt="Screenshot 2022-11-17 180526" src="https://user-images.githubusercontent.com/117451627/202448032-07365027-533b-4ae9-bf4d-2c85f892fc1c.png">
-
-## Tech Stack 💻
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+![Screenshot 2023-01-25 145247](https://user-images.githubusercontent.com/117451627/214527141-9db8dd5b-246b-47df-a034-9c434fa94b39.png)
