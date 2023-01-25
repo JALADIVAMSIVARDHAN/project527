@@ -8,15 +8,20 @@ IDE : VS CODE
 
 Industry : Life Style
 
-Project Title : Real gage
+Project Title : GO TRIP
 
-Primary Azure Technologies : Static Web and App Service.
+Primary Azure Technologies : Static Web and Azure Health Bot
 
-Problem Statement/Opportunity : With industry-leading tools and the savviest pros in the business, our mission is to ethically and honestly serve our clients so that they can achieve the dream of home.
+Problem Statement/Opportunity : Planning trips and vist new  places are good relief to brain and knowing some unknow things about that places and learn some morals from that areas peoples.
 
-Project Description : In this project, I have created six templets they are home, about, properties, gallery, team, clients and contact in which home is the main templet and all the other templets are mentioned in it assets consists of all the images colors and design of the website
+Project Description : The easiest way to explore places by this GO TRIP website and to save money alot,and helpful to know more places.We have facilitiy of Health Bot to know about our health and we have impressive discounts.
+
+## static web app URL : https://calm-desert-0d7bbe500.2.azurestaticapps.net
+
+## MY WEBSITE URL :  https://calm-desert-0d7bbe500.2.azurestaticapps.net
 
 ## Screenshots
+
 
 
 
