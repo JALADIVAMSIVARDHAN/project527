@@ -1,26 +1,20 @@
-# ✨  Go Trip ✨
+# FinalPro : Future Ready Talent Project By 
 
-This is a web based application developed for health related based website in india
+This is a front end website
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+Web Technologies used : HTML, JAVA, CSS.
 
+IDE : VS CODE
 
-**Project Link** -https://brave-smoke-04016ed00.2.azurestaticapps.net/
-**project demo video link** - https://youtu.be/-zOtyxKaVF8
+Industry : Life Style
 
-## Azure technologies used for Project
+Project Title : Real gage
 
-- Static web apps
-- Health bot
+Primary Azure Technologies : Static Web and App Service.
 
-## Features and Functionalities 😃
+Problem Statement/Opportunity : With industry-leading tools and the savviest pros in the business, our mission is to ethically and honestly serve our clients so that they can achieve the dream of home.
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+Project Description : In this project, I have created six templets they are home, about, properties, gallery, team, clients and contact in which home is the main templet and all the other templets are mentioned in it assets consists of all the images colors and design of the website
 
 ## Screenshots
 
