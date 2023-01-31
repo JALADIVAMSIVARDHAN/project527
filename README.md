@@ -46,8 +46,10 @@ Project Description : The easiest way to explore places by this GO TRIP website 
 ### Azure Services Used
 
 ![Screenshot 2023-01-25 145247](https://user-images.githubusercontent.com/117451627/214527141-9db8dd5b-246b-47df-a034-9c434fa94b39.png)
+![resource group](https://user-images.githubusercontent.com/117451627/215724329-c40f04e6-b12c-4895-9670-aa8cee6a866a.png)
+
 ![static web app](https://user-images.githubusercontent.com/117451627/215723273-3b74c0ee-7528-410b-8e75-b15d59fcae4e.png)
 ![healthbot azure](https://user-images.githubusercontent.com/117451627/215723361-7d0b659a-5532-4e5f-b85a-afe16101b5dd.png)
 ![Screenshot 2023-01-25 145124](https://user-images.githubusercontent.com/117451627/214526812-0ad8bd96-1d8b-437e-94d9-4589d79573ca.png)
-![resource group](https://user-images.githubusercontent.com/117451627/215724329-c40f04e6-b12c-4895-9670-aa8cee6a866a.png)
+
 
