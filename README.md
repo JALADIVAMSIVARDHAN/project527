@@ -28,6 +28,10 @@ Project Description : The easiest way to explore places by this GO TRIP website 
 
 ![Screenshot 2023-01-25 144918](https://user-images.githubusercontent.com/117451627/214526022-9701ee6e-ad7a-4710-8b08-fccb34ae8561.png)
 
+
+![home page](https://user-images.githubusercontent.com/117451627/215725188-07951476-6505-4536-af2b-442193a76f9d.png)
+
+
 ### About Us -
 
 ![Screenshot 2023-01-25 145017](https://user-images.githubusercontent.com/117451627/214526145-13f4ef5a-a119-4837-80ec-795df600ae23.png)
