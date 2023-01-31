@@ -18,6 +18,8 @@ Project Description : The easiest way to explore places by this GO TRIP website 
 
 ## static web app URL : https://calm-desert-0d7bbe500.2.azurestaticapps.net
 
+## healthbot url :https://centralindia.healthbot.microsoft.com/account/project27-f5hfibt
+
 ## MY WEBSITE URL :  https://calm-desert-0d7bbe500.2.azurestaticapps.net
 
 ## Screenshots
@@ -40,10 +42,12 @@ Project Description : The easiest way to explore places by this GO TRIP website 
 
 ![Screenshot 2023-01-25 145211](https://user-images.githubusercontent.com/117451627/214526603-98fe80b0-b8af-4c91-88c1-1d7219a94e26.png)
 
-### health bot
-
-![Screenshot 2023-01-25 145124](https://user-images.githubusercontent.com/117451627/214526812-0ad8bd96-1d8b-437e-94d9-4589d79573ca.png)
 
 ### Azure Services Used
 
 ![Screenshot 2023-01-25 145247](https://user-images.githubusercontent.com/117451627/214527141-9db8dd5b-246b-47df-a034-9c434fa94b39.png)
+![static web app](https://user-images.githubusercontent.com/117451627/215723273-3b74c0ee-7528-410b-8e75-b15d59fcae4e.png)
+![healthbot azure](https://user-images.githubusercontent.com/117451627/215723361-7d0b659a-5532-4e5f-b85a-afe16101b5dd.png)
+![Screenshot 2023-01-25 145124](https://user-images.githubusercontent.com/117451627/214526812-0ad8bd96-1d8b-437e-94d9-4589d79573ca.png)
+
+
